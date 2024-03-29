@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [ricardogeada.com](ricardogeada.com)
+- 👨‍💻 All of my projects are available at [ricardogeada.com](https://ricardogeada.com)
 
 - 📫 How to reach me **ricardogeada.dev@gmail.com**
 
