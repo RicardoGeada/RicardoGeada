@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [ricardogeada.com](https://ricardogeada.com)
 
-- 📫 How to reach me **ricardogeada.dev@gmail.com**
+- 📫 How to reach me **mail@ricardogeada.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
