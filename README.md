@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardogeada&label=Profile%20views&color=0e75b6&style=flat" alt="ricardogeada" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [ricardogeada.com](https://ricardogeada.com)
 
